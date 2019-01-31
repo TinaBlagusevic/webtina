@@ -378,10 +378,13 @@ font-family: 'Montserrat', sans-serif;
 	transform: translate(-50%,-50%);
 }
 
-.kontakt p {
+.social-profile h2 {
+	text-transform: uppercase;
 	font-size: 14pt;
-	font-family: 'Montserrat', sans-serif;
+font-family: 'Montserrat', sans-serif;
 	text-align: center;
+	padding-top: 60px;
+	padding-bottom: 40px;
 
 }
 /* ------ Društvene mreže / kraj ------ */
