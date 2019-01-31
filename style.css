@@ -339,6 +339,15 @@ font-family: 'Montserrat', sans-serif;
 	padding-top: 60px;
 	padding-bottom: 40px;
 }
+
+.social-profiles h2 {
+	text-transform: uppercase;
+	font-size: 14pt;
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+	padding-top: 60px;
+	padding-bottom: 40px;
+}
 .social-profile {
 	height: 250px;
 }
@@ -377,6 +386,7 @@ font-family: 'Montserrat', sans-serif;
 	left: 50%;
 	transform: translate(-50%,-50%);
 }
+
 
 
 /* ------ Društvene mreže / kraj ------ */
