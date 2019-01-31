@@ -196,6 +196,13 @@ font-family: 'Exo', sans-serif;
 	font-size: 12pt;
 font-family: 'Montserrat', sans-serif;
 }
+
+.kontakt p {
+	font-size: 14pt;
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+
+}
 /* ------ Kontakt / kraj ------ */
 
 /* ------ Footer / početak ------ */
